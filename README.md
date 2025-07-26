@@ -2,7 +2,7 @@
 
 ## 📋 Basic Info
 - **Language:** C
-- **Code Size:** 1000+ LOC
+- **Code Size:** 2000
 - **Project Type:** Simple version control system (Git clone)
 
 ## ✨ Core Features
